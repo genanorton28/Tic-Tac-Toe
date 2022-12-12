@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: bisque;
+    align-items: center;
+}
+
+
+.box{
+    border: 2px solid brown;
+    float: left;
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#box3, #box6{
+    clear: left;
+    cursor: pointer;
+}
+
+
+
